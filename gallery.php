@@ -13,23 +13,29 @@
     <title>Gallery | MG Marketing Kenya</title>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-8H1W6YB6C0"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <script>
+        window.dataLayer = window.dataLayer || [];
 
-  gtag('config', 'G-8H1W6YB6C0');
-</script>
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-8H1W6YB6C0');
+    </script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-8H1W6YB6C0"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <script>
+        window.dataLayer = window.dataLayer || [];
 
-  gtag('config', 'G-8H1W6YB6C0');
-</script>
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-8H1W6YB6C0');
+    </script>
     <!-- Mobile Specific Metas
     ================================================== -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -87,8 +93,8 @@
                 <a href="services.php" class="nav-item nav-link">Services</a>
                 <a href="team.php" class="nav-item nav-link">Team</a>
                 <a href="gallery.php" class="nav-item nav-link active">Gallery</a>
-<a href="contact.php" class="nav-item nav-link">Contact</a>
-                                <a href="http://blog.mgmarketing.co.ke/" target="_blank" class="nav-item nav-link">Blog</a>
+                <a href="contact.php" class="nav-item nav-link">Contact</a>
+                <a href="http://blog.mgmarketing.co.ke/" target="_blank" class="nav-item nav-link">Blog</a>
             </div>
             <!-- <a href="" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block">Join Now<i
                     class="fa fa-arrow-right ms-3"></i></a> -->
@@ -123,7 +129,13 @@
 
             <div class="row">
                 <div class="col-md-3 col-lg-3 gallery-hover overflow-hidden g-1">
-                    <img class=" img-fluid w-100" loading="lazy" src="img/DSC_9325.jpg" alt="MG Marketing gallery image">
+                    <img class=" img-fluid w-100" loading="lazy" src="img/DSC_5224.jpg" alt="MG Marketing gallery image">
+                </div>
+                <div class="col-md-3 col-lg-3 gallery-hover overflow-hidden g-1">
+                    <img class=" img-fluid w-100" loading="lazy" src="img/DSC_5226.jpg" alt="MG Marketing gallery image">
+                </div>
+                <div class="col-md-3 col-lg-3 gallery-hover overflow-hidden g-1">
+                    <img class=" img-fluid w-100" loading="lazy" src="img/DSC_5229.jpg" alt="MG Marketing gallery image">
                 </div>
 
                 <div class="col-md-3 col-lg-3 gallery-hover overflow-hidden g-1">

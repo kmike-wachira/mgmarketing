@@ -132,7 +132,7 @@
                         area of your Social Media platform is well covered; We desire to create a platform where your
                         Company will not only be visible out there but that you will also bring in revenue through a
                         consistent and Systematic process</p>
-                    <a href="/mgprofile.pdf" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" download="mgprofile">Download Our Profile</a>
+                    <!-- <a href="/mgprofile.pdf" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" download="mgprofile">Download Our Profile</a> -->
                 </div>
             </div>
         </div>
@@ -168,7 +168,7 @@
             <div class="row g-5 ">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="min-height: 400px;">
                     <div class="position-relative h-100 shadow">
-                        <img class="img-fluid position-absolute w-100 h-100" src="img//graphic.jpg" alt="MG Marketing" style="object-fit: cover;">
+                        <img class="img-fluid position-absolute w-100 h-100" src="img/graphic.jpg" alt="MG Marketing" style="object-fit: cover;">
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
@@ -196,6 +196,26 @@
                     <p class="mb-4"> Ever wondered how you are going to capture those pictures as well us take a video of your company and edit it.
                         We are here for you. Once you sign up with us .We do that for you for free and regularly
                     </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="row g-5 ">
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="min-height: 400px;">
+                    <div class="position-relative h-100 shadow">
+                        <img class="img-fluid position-absolute w-100 h-100" src="img/webdesign.jpg" alt="MG Marketing" style="object-fit: cover;">
+                    </div>
+                </div>
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <h6 class="section-title bg-white text-start text-primary pe-3">Service</h6>
+                    <h3 class="mb-4 text-uppercase">Wbsite design</h3>
+                    <p class="mb-4">What Is the Purpose of Having a Website?
+                        The short answer is that websites can help you generate business, sales, and leads, as well as increase the value of your brand.
+                        It aids in increasing credibility in the eyes of customers and allows businesses to showcase their services to a targeted audience.
+                        Your business could close for the day at 6 p.m., with no one answering the phone to answer questions about it. Your website, on the
+                        other hand, will be up and running 24 hours a day, 365 days a year, promoting your company and introducing your services to potential customers.</p>
                 </div>
             </div>
         </div>

@@ -14,13 +14,16 @@
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-8H1W6YB6C0"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <script>
+        window.dataLayer = window.dataLayer || [];
 
-  gtag('config', 'G-8H1W6YB6C0');
-</script>
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-8H1W6YB6C0');
+    </script>
     <!-- Mobile Specific Metas
     ================================================== -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -78,8 +81,8 @@
                 <a href="services.php" class="nav-item nav-link ">Services</a>
                 <a href="team.php" class="nav-item nav-link active">Team</a>
                 <a href="gallery.php" class="nav-item nav-link ">Gallery</a>
-<a href="contact.php" class="nav-item nav-link">Contact</a>
-                                <a href="http://blog.mgmarketing.co.ke/" target="_blank" class="nav-item nav-link">Blog</a>
+                <a href="contact.php" class="nav-item nav-link">Contact</a>
+                <a href="http://blog.mgmarketing.co.ke/" target="_blank" class="nav-item nav-link">Blog</a>
             </div>
         </div>
     </nav>
@@ -116,7 +119,7 @@
                 <h1 class="mb-5">They drive your work</h1>
             </div>
             <div class="row g-4">
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item bg-light">
                         <div class="overflow-hidden">
                             <img class="w-100 img-fluid" src="img/team/george.jpg" alt="MG Marketing">
@@ -136,7 +139,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item bg-light">
                         <div class=" overflow-hidden ">
                             <img class="img-fluid w-100" src="img/team/mo.jpg" alt="MG Marketing">
@@ -154,7 +157,26 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="team-item bg-light">
+                        <div class=" overflow-hidden ">
+                            <img class="img-fluid w-100" src="img/team/ken.jpg" alt="MG Marketing">
+                        </div>
+                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
+                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
+                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.facebook.com/kenneth.gichinga.7" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a> -->
+                                <a class="btn btn-sm-square btn-primary mx-1" href="" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.linkedin.com/in/kenneth-gichinga-38b59419b/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                            </div>
+                        </div>
+                        <div class="text-center p-4">
+                            <h5 class="mb-0">John Akoyi</h5>
+                            <small> Photographer & Videographer </small>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item bg-light">
                         <div class=" overflow-hidden ">
                             <img class="img-fluid w-100" src="img/team/njeri.jpg" alt="MG Marketing">
@@ -174,7 +196,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item bg-light">
                         <div class=" overflow-hidden ">
                             <img class="img-fluid w-100" src="img/team/sheila.jpg" alt="MG Marketing">
@@ -194,7 +216,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item bg-light">
                         <div class=" overflow-hidden ">
                             <img class="img-fluid w-100" src="img/team/kmike.jpg" alt="MG Marketing">
@@ -213,7 +235,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item bg-light">
                         <div class=" overflow-hidden ">
                             <img class="img-fluid w-100" src="img/team/john.jpg" alt="MG Marketing">
@@ -224,9 +246,6 @@
                                 <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a> -->
                                 <a class="btn btn-sm-square btn-primary mx-1" href="https://www.instagram.com/lucianjohns/" target="_blank"><i class="fab fa-instagram"></i></a>
                                 <a class="btn btn-sm-square btn-primary mx-1" href="https://twitter.com/johnslucian?t=vjxt5Grd_JeVd5FDA0eqwQ&s=09" target="_blank"><i class="fab fa-twitter"></i></a>
-
-
-
                             </div>
                         </div>
                         <div class="text-center p-4">
@@ -235,7 +254,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item bg-light">
                         <div class=" overflow-hidden ">
                             <img class="img-fluid w-100" src="img/team/kaluc.jpg" alt="MG Marketing">
@@ -253,7 +272,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item bg-light">
                         <div class=" overflow-hidden ">
                             <img class="img-fluid w-100" src="img/team/sally.jpg" alt="MG Marketing">
