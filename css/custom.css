@@ -1,0 +1,26 @@
+.header-back{
+    background-image: url(../img/DSC_9317.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.call-to-action{
+    background-image: url(../img/socialmedia.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.header-back-container{
+    background: rgba(24, 29, 56, .7);
+    padding:  50px 10px;
+}
+.a-black{
+    color: black;
+}
+@media (max-width: 768px) {
+
+    .header-back-container{
+        background: none;
+        padding: 0px;
+    }
+}
