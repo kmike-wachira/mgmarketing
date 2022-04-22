@@ -81,7 +81,7 @@
                 <a href="team.php" class="nav-item nav-link">Team</a>
                 <a href="gallery.php" class="nav-item nav-link ">Gallery</a>
                 <a href="contact.php" class="nav-item nav-link">Contact</a>
-                                <a href="http://blog.mgmarketing.co.ke/" target="_blank" class="nav-item nav-link">Blog</a>
+                <a href="http://blog.mgmarketing.co.ke/" target="_blank" class="nav-item nav-link">Blog</a>
 
             </div>
         </div>

@@ -14,13 +14,16 @@
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-8H1W6YB6C0"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <script>
+        window.dataLayer = window.dataLayer || [];
 
-  gtag('config', 'G-8H1W6YB6C0');
-</script>
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-8H1W6YB6C0');
+    </script>
     <!-- Mobile Specific Metas
     ================================================== -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -78,8 +81,8 @@
                 <a href="services.php" class="nav-item nav-link active">Services</a>
                 <a href="team.php" class="nav-item nav-link">Team</a>
                 <a href="gallery.php" class="nav-item nav-link">Gallery</a>
-<a href="contact.php" class="nav-item nav-link">Contact</a>
-                                <a href="http://blog.mgmarketing.co.ke/" target="_blank" class="nav-item nav-link">Blog</a>
+                <a href="contact.php" class="nav-item nav-link">Contact</a>
+                <a href="http://blog.mgmarketing.co.ke/" target="_blank" class="nav-item nav-link">Blog</a>
             </div>
             <!-- <a href="" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block">Join Now<i
                         class="fa fa-arrow-right ms-3"></i></a> -->
@@ -110,23 +113,28 @@
     </div>
     <!-- Header End -->
 
-    <!-- Brief -->
-    <div class="container-xxl py-5 category">
-        <div class="container">
-            <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
-                <h6 class="section-title bg-white text-center text-primary px-3">Brief</h6>
-                <h1 class="mb-5">What We Do</h1>
-            </div>
-            <div class="col-lg-8 offset-lg-2 text-center">
-                <p class=" fs-5">
-                    MG Marketing is a Digital Marketing Company that goes above and beyond to provide for our
-                    Client's needs through all Social Media platforms, making sure that they reach their target audience
-                    and get returns on their investments. We have a committed and diligent team that makes sure every
-                    area of your Social Media platform is well covered; We desire to create a platform where your
-                    Company will not only be visible out there but that you will also bring in revenue through a
-                    consistent and Systematic process</p>
-            </div>
 
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="row g-5">
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="min-height: 400px;">
+                    <div class="position-relative h-100 shadow">
+                        <iframe class="w-100 h-100" width="853" height="480" src="https://www.youtube.com/embed/orBuSsayvDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <!-- <img class="img-fluid position-absolute w-100 h-100" src="img/DSC_9310.jpg" alt="MG Marketing" style="object-fit: cover;"> -->
+                    </div>
+                </div>
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <h6 class="section-title bg-white text-start text-primary pe-3">Brief</h6>
+                    <h1 class="mb-4">MG MARKETING</h1>
+                    <p class="mb-4"> MG Marketing is a Digital Marketing Company that goes above and beyond to provide for our
+                        Client's needs through all Social Media platforms, making sure that they reach their target audience
+                        and get returns on their investments. We have a committed and diligent team that makes sure every
+                        area of your Social Media platform is well covered; We desire to create a platform where your
+                        Company will not only be visible out there but that you will also bring in revenue through a
+                        consistent and Systematic process</p>
+                    <a href="/mgprofile.pdf" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" download="mgprofile">Download Our Profile</a>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -134,73 +142,64 @@
 
     <hr>
     <!-- Categories Start -->
-    <div class="container-xxl py-5 category">
+
+    <div class="container-xxl py-5">
         <div class="container">
-            <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
-                <h6 class="section-title bg-white text-center text-primary px-3">Package</h6>
-                <h1 class="mb-5">Our Package includes but not limited to the following</h1>
-            </div>
-            <div class="row g-3">
-                <div class="col-lg-7 col-md-6">
-                    <div class="row g-3">
-                        <div class="col-lg-12 col-md-12 wow zoomIn" data-wow-delay="0.1s">
-                            <a class="position-relative d-block overflow-hidden" href="">
-                                <img class="img-fluid" loading="lazy" src="img/webdesign.jpg" alt="MG Marketing">
-                                <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin: 1px;">
-                                    <h5 class="m-0">Web Design</h5>
-                                    <small class="text-primary">We design and develop websites for you</small>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="col-lg-6 col-md-12 wow zoomIn" data-wow-delay="0.3s">
-                            <a class="position-relative d-block overflow-hidden" href="">
-                                <img class="img-fluid" loading="lazy" src="img/graphic.jpg" loading="lazy" alt="MG Marketing">
-                                <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin: 1px;">
-                                    <h5 class="m-0">Graphic Design</h5>
-                                    <small class="text-primary">We brand you and design any relevant poster you
-                                        need</small>
-                                </div>
-                            </a>
-                        </div>
-
-                        <div class="col-lg-6 col-md-12 wow zoomIn" data-wow-delay="0.5s">
-                            <a class="position-relative d-block overflow-hidden" href="">
-                                <img class="img-fluid" loading="lazy" src="img/photography.jpg" alt="MG Marketing">
-                                <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin: 1px;">
-                                    <h5 class="m-0">Video Editing</h5>
-                                    <small class="text-primary">We make short portfolio videos for you to keep on
-                                        improving</small>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="col-lg-12 col-md-12 wow zoomIn" data-wow-delay="0.1s">
-                            <a class="position-relative d-block overflow-hidden" href="">
-                                <img class="img-fluid" loading="lazy" src="img/socialmedia.jpg" alt="MG Marketing">
-                                <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin: 1px;">
-                                    <h5 class="m-0">Social Media Mangement</h5>
-                                    <small class="text-primary">We will help you Manage your pages and even create new
-                                        ones if you do not have</small>
-                                </div>
-                            </a>
-                        </div>
-
+            <div class="row g-5 flex-row-reverse">
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="min-height: 400px;">
+                    <div class="position-relative h-100 shadow">
+                        <img class="img-fluid position-absolute w-100 h-100" src="img/socialmedia.jpg" alt="MG Marketing" style="object-fit: cover;">
                     </div>
                 </div>
-
-                <div class="col-lg-5 col-md-6 wow zoomIn" data-wow-delay="0.7s" style="min-height: 350px;">
-                    <a class="position-relative d-block h-100 overflow-hidden" href="">
-                        <img class="img-fluid position-absolute w-100 h-100" loading="lazy" src="img/bsd.jpg" alt="MG Marketing" style="object-fit: cover;">
-                        <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin:  1px;">
-                            <h5 class="m-0">Business development</h5>
-                            <small class="text-primary">We will keep on suggesting flexible models that we bilieve might
-                                boost your business</small>
-                        </div>
-                    </a>
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <h6 class="section-title bg-white text-start text-primary pe-3">Service</h6>
+                    <h3 class="mb-4 text-uppercase">Social Media MARKETING</h3>
+                    <p class="mb-4">Social media marketing is an efficient way for businesses of all sizes to connect with prospects and customers. People use social
+                        media to discover, learn about, follow, and shop from brands, so if you're not on Facebook, Instagram, or LinkedIn, you're missing out! Great
+                        social media marketing can catapult your business to new heights by cultivating loyal brand advocates and even driving leads and sales. Social
+                        media marketing is a type of digital marketing that takes advantage of the popularity of popular social media networks in order to achieve marketing
+                        and branding goals. However, it is not as simple as opening business accounts and posting whenever you want.</p>
                 </div>
             </div>
         </div>
     </div>
-    <!-- Categories Start -->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="row g-5 ">
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="min-height: 400px;">
+                    <div class="position-relative h-100 shadow">
+                        <img class="img-fluid position-absolute w-100 h-100" src="img//graphic.jpg" alt="MG Marketing" style="object-fit: cover;">
+                    </div>
+                </div>
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <h6 class="section-title bg-white text-start text-primary pe-3">Service</h6>
+                    <h3 class="mb-4 text-uppercase">Brand identity</h3>
+                    <p class="mb-4">Brand identity is a collection of visual elements that represent a company's ideas and allow customers to remember and
+                        distinguish one brand from dozens of others. It aids in shaping consumers' perceptions of a company, fostering loyalty and trust,
+                        and making a brand memorable. Here at MG Marketing help you get the best. We design weekly poster for your company design a logo
+                        and any other related designs for your company</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="row flex-row-reverse g-5 ">
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="min-height: 400px;">
+                    <div class="position-relative h-100 shadow">
+                        <img class="img-fluid position-absolute w-100 h-100" src="img/photography.jpg" alt="MG Marketing" style="object-fit: cover;">
+                    </div>
+                </div>
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <h6 class="section-title bg-white text-start text-primary pe-3">Service</h6>
+                    <h3 class="mb-4 text-uppercase">Photography and Videography</h3>
+                    <p class="mb-4"> Ever wondered how you are going to capture those pictures as well us take a video of your company and edit it.
+                        We are here for you. Once you sign up with us .We do that for you for free and regularly
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <!-- call to action -->
     <div class="container-xxl py-5 call-to-action d-flex align-items-center justify-content-center">
