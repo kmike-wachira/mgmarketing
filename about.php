@@ -235,7 +235,7 @@
                         </div>
                         <div class="text-center p-4">
                             <h5 class="mb-0">George Muturi</h5>
-                            <small>Business Development Manager </small>
+                            <small>General Manager </small>
                         </div>
                     </div>
                 </div>

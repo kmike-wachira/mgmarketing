@@ -135,7 +135,7 @@
                         </div>
                         <div class="text-center p-4">
                             <h5 class="mb-0">George Muturi</h5>
-                            <small>Business Development Manager </small>
+                            <small>General Manager </small>
                         </div>
                     </div>
                 </div>
@@ -166,13 +166,13 @@
                             <div class="bg-light d-flex justify-content-center pt-2 px-1">
                                 <a class="btn btn-sm-square btn-primary mx-1" href="https://www.facebook.com/kenneth.gichinga.7" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                 <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a> -->
-                                <a class="btn btn-sm-square btn-primary mx-1" href="" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href="" target="_blank"><i class="fab fa-instagram"></i></a> -->
                                 <a class="btn btn-sm-square btn-primary mx-1" href="https://www.linkedin.com/in/kenneth-gichinga-38b59419b/" target="_blank"><i class="fab fa-linkedin"></i></a>
                             </div>
                         </div>
                         <div class="text-center p-4">
-                            <h5 class="mb-0">John Akoyi</h5>
-                            <small> Photographer & Videographer </small>
+                            <h5 class="mb-0">Kenneth Gichinga</h5>
+                            <small> Business Development Manager</small>
                         </div>
                     </div>
                 </div>
