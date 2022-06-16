@@ -24,7 +24,11 @@ function addToGallery($current_images, $imagename, $caption)
         'imagename' => $imagename,
         'caption' => $caption
     ]);
-    file_put_contents($GLOBALS['file_name'], json_encode($current_images));
+    if (file_put_contents($GLOBALS['file_name'], json_encode($current_images))) {
+        return true;
+    } else {
+        return false;
+    }
 }
 
 if (isset($_GET['remove_action'])) {
