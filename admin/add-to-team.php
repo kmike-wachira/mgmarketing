@@ -93,7 +93,7 @@
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="min-height: 400px;">
                     <div class="position-relative h-100 shadow p-4">
 
-                        <form method="post" enctype="multipart/form-data" action="uploadimage.php">
+                        <form method="post" enctype="multipart/form-data" action="admin-backend.php">
                             <div class="row g-3">
                                 <div class="col-md-12">
                                     <h4 class="fw-bold">Add to team</h4>
@@ -119,7 +119,7 @@
                                 </div>
                                 <div class="col-md-12">
                                     <div class="form-floating">
-                                        <input type="text" class="form-control" minlength="5" name="facebook_link" id="facebook" placeholder="Image caption">
+                                        <input type="text" class="form-control" minlength="5" name="facebook_link" id="facebook" required placeholder="Image caption">
                                         <label for="facebook">Facebook #</label>
                                     </div>
                                 </div>

@@ -2,16 +2,16 @@
 include 'fileoperation.php';
 
 $target_dir = "../img/gallery/";
-$file_upload_name = $_FILES["file_to_upload"]["name"];
-$target_file = $target_dir . basename($file_upload_name);
-$tmp_file_name = $_FILES["file_to_upload"]["tmp_name"];
+$target_file = $target_dir . basename($_FILES["file_to_upload"]["name"]);
+$tmp_file = $_FILES["file_to_upload"]["tmp_name"];
 $uploadOk = 1;
 $imageFileType = strtolower(pathinfo($target_file, PATHINFO_EXTENSION));
 $file_size = $_FILES["file_to_upload"]["size"];
+$file_name = $_FILES["file_to_upload"]["name"];
 
 // Check if image file is a actual image or fake image
 if (isset($_POST["submit"])) {
-    $check = getimagesize($tmp_file_name);
+    $check = getimagesize($tmp_file);
     if ($check !== false) {
         echo "File is an image - " . $check["mime"] . ".";
         $uploadOk = 1;
@@ -47,18 +47,17 @@ if ($uploadOk == 0) {
     // if everything is ok, try to upload file
 } else {
     $rand = rand();
-    $image_name = $rand . htmlspecialchars(basename($file_upload_name));
-    if (move_uploaded_file($tmp_file_name, $target_dir . $image_name)) {
+    $image_name = $rand . htmlspecialchars(basename($file_name));
+    $tmp_name = $_FILES["file_to_upload"]["tmp_name"];
+    $image_name = $rand . htmlspecialchars(basename($_FILES["file_to_upload"]["name"]));
+    if (move_uploaded_file($tmp_name, $target_dir . $image_name)) {
         echo "The file " . $image_name . " has been uploaded.";
         if (addToGallery($current_images, $image_name, htmlspecialchars($_POST['caption']))) {
             return header('location:upload_image.php');
         } else {
             unlink($target_dir . $image_name);
-            return header('location:upload_image.php');
         }
     } else {
         echo "Sorry, there was an error uploading your file.";
-        return header('location:upload_image.php');
-
     }
 }
