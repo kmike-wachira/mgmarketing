@@ -10,7 +10,7 @@
     <meta property="og:image:type" content="image/png">
     <meta property="og:image:width" content="1024">
     <meta property="og:image:height" content="1024">
-    <title>Admin | MG Marketing Kenya</title>
+    <title>Services | MG Marketing Kenya</title>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-8H1W6YB6C0"></script>
@@ -96,34 +96,58 @@
                         <form method="post" enctype="multipart/form-data" action="admin-backend.php">
                             <div class="row g-3">
                                 <div class="col-md-12">
-                                    <h4 class="fw-bold">Add to clients</h4>
+                                    <h4 class="fw-bold">Add to team</h4>
                                 </div>
                                 <div class="col-md-12">
                                     <div class="form-floating">
-                                        <input type="text" class="form-control" minlength="5" name="client_name" required id="name" placeholder="Image caption">
-                                        <label for="name">Comapny Name</label>
+                                        <input type="text" class="form-control" minlength="5" name="team_name" required id="name" placeholder="Image caption">
+                                        <label for="name">Name</label>
                                     </div>
                                 </div>
                                 <div class="col-md-12">
                                     <div class="form-floating">
-                                        <input type="file" class="form-control" accept=".png,.jpg" name="client_image" required id="image" placeholder="">
-                                        <label for="image">Logo Image</label>
+                                        <input type="file" class="form-control" accept=".png,.jpg" name="profile_image" required id="image" placeholder="">
+                                        <label for="image">Profile Image</label>
                                     </div>
                                 </div>
                                 <div class="col-md-12">
                                     <div class="form-floating">
-                                        <input type="text" class="form-control" minlength="5" name="facebook_link" id="facebook" placeholder="Image caption">
+                                        <input type="text" class="form-control" minlength="5" name="team_position" required id="teamposition" placeholder="Image caption">
+                                        <label for="teamposition">Position</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" minlength="5" name="facebook_link" id="facebook" required placeholder="Image caption">
                                         <label for="facebook">Facebook #</label>
                                     </div>
                                 </div>
                                 <div class="col-md-12">
                                     <div class="form-floating">
-                                        <input type="text" class="form-control" minlength="5" name="instagram_link" required id="instagram" placeholder="Image caption">
+                                        <input type="text" class="form-control" minlength="5" name="instagram" required id="instagram" placeholder="Image caption">
                                         <label for="instagram">Instagram #</label>
                                     </div>
                                 </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" minlength="5" name="instagram" required id="instagram" placeholder="Image caption">
+                                        <label for="instagram">Email</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" minlength="5" name="instagram" required id="instagram" placeholder="Image caption">
+                                        <label for="instagram">Phone</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" minlength="5" name="instagram" required id="instagram" placeholder="Image caption">
+                                        <label for="instagram">password #</label>
+                                    </div>
+                                </div>
                                 <div class="col-12">
-                                    <button class="btn btn-primary w-100 py-3" name="add-client" type="submit">Add Client</button>
+                                    <button class="btn btn-primary w-100 py-3" name="add-member" type="submit">Add member</button>
                                     <button class="btn btn-primary d-none" type="button">
                                         <span class="spinner-grow spinner-grow-sm" role="status" aria-hidden="true"></span>
                                         Sending...
@@ -138,25 +162,24 @@
                     <table class="table align-center text-center">
                         <thead>
                             <tr>
-                                <th>Logo</th>
-                                <th>Company</th>
-                                <th>facebook</th>
-                                <th>Instagram</th>
+                                <th>Profile</th>
+                                <th>Name</th>
+                                <th>Postion</th>
+                                <th>IG</th>
                                 <th>Actions</th>
                             </tr>
                         </thead>
                         <tbody>
                             <?php
                             include 'admin-backend.php';
-                            $clients =  getClients();
-                            if (!empty($clients)) :
-                                foreach ($clients as $key => $client) : ?>
+                            $team =  getTeam();
+                            if (!empty($team)) :
+                                foreach ($team as $key => $team_member) : ?>
                                     <tr>
-                                        <td><img src="/img/clients/<?= htmlspecialchars($client['company_logo']) ?>" alt="" srcset="" height="100" width="100"></td>
-                                        <td><?= htmlspecialchars($client['company_name']) ?></td>
-                                        <td><?= htmlspecialchars($client['facebook_link']) ?></td>
-                                        <td><?= htmlspecialchars($client['instagram_link']) ?></td>
-                                        <td>General Manager</td>
+                                        <td><img src="/img/teamimages/<?= htmlspecialchars($team_member['profile_image']) ?>" alt="" srcset="" height="100" width="100"></td>
+                                        <td><?= htmlspecialchars($team_member['name']) ?></td>
+                                        <td><?= htmlspecialchars($team_member['position']) ?></td>
+                                        <td><?= htmlspecialchars($team_member['instagram']) ?></td>
                                         <td>
                                             <a href="/admin/fileoperation.php?remove_action=clear&id=<?= $key ?> "><i class=" fas fa-edit"></i></a>
                                             <a href="/admin/fileoperation.php?remove_action=clear&id=<?= $key ?> "><i class=" fas fa-trash text-danger"></i></a>

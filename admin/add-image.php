@@ -2,15 +2,15 @@
 function addImage($target_dir, $tmp_file)
 {
     $target_file = $target_dir . basename($tmp_file["name"]);
-    $tmp_file = $target_dir["tmp_name"];
+    $tmp_file_s = $tmp_file['tmp_name'];
     $uploadOk = 1;
     $imageFileType = strtolower(pathinfo($target_file, PATHINFO_EXTENSION));
-    $file_size = $target_dir["size"];
-    $file_name = $target_dir["name"];
+    $file_size = $tmp_file['size'];
+    $file_name = $tmp_file['name'];
     $message = '';
 
     // Check if image file is a actual image or fake image
-    $check = getimagesize($tmp_file);
+    $check = getimagesize($tmp_file['tmp_name']);
     if ($check !== false) {
         $message .= "File is an image - " . $check["mime"] . ".";
         $uploadOk = 1;
@@ -46,10 +46,10 @@ function addImage($target_dir, $tmp_file)
     } else {
         $rand = rand();
         $image_name = $rand . htmlspecialchars(basename($file_name));
-        $tmp_name = $target_dir["tmp_name"];
-        $image_name = $rand . htmlspecialchars(basename($target_dir["name"]));
+        $tmp_name = $tmp_file["tmp_name"];
+        $image_name = $rand . htmlspecialchars(basename($tmp_file["name"]));
         if (move_uploaded_file($tmp_name, $target_dir . $image_name)) {
-            return ['uploaded' => true, 'message' => 'upload complete','image_name'=>$image_name];
+            return ['uploaded' => true, 'message' => 'upload complete', 'image_name' => $image_name];
         } else {
             return ['uploaded' => false, 'message' => $message];
         }

@@ -148,19 +148,21 @@
                                 <th>Profile</th>
                                 <th>Name</th>
                                 <th>Postion</th>
+                                <th>IG</th>
                                 <th>Actions</th>
                             </tr>
                         </thead>
                         <tbody>
                             <?php
-                            include 'fileoperation.php';
-                            $images =  getImage();
-                            if (!empty($images)) :
-                                foreach ($images as $key => $image) : ?>
+                            include 'admin-backend.php';
+                            $team =  getTeam();
+                            if (!empty($team)) :
+                                foreach ($team as $key => $team_member) : ?>
                                     <tr>
-                                        <td><img src="/img/gallery/<?= htmlspecialchars($image['imagename']) ?>" alt="" srcset="" height="100" width="100"></td>
-                                        <td><?= htmlspecialchars($image['imagename']) ?></td>
-                                        <td>General Manager</td>
+                                        <td><img src="/img/teamimages/<?= htmlspecialchars($team_member['profile_image']) ?>" alt="" srcset="" height="100" width="100"></td>
+                                        <td><?= htmlspecialchars($team_member['name']) ?></td>
+                                        <td><?= htmlspecialchars($team_member['position']) ?></td>
+                                        <td><?= htmlspecialchars($team_member['instagram']) ?></td>
                                         <td>
                                             <a href="/admin/fileoperation.php?remove_action=clear&id=<?= $key ?> "><i class=" fas fa-edit"></i></a>
                                             <a href="/admin/fileoperation.php?remove_action=clear&id=<?= $key ?> "><i class=" fas fa-trash text-danger"></i></a>
