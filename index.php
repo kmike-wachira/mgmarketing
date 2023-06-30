@@ -285,24 +285,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="team-item bg-light">
-                        <div class=" overflow-hidden ">
-                            <img class="img-fluid w-100" src="img/team/mo.jpg" alt="MG Marketing">
-                        </div>
-                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
-                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.facebook.com/cheexs.makai" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a> -->
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.instagram.com/cheexs_makai/" target="_blank"><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                        <div class="text-center p-4">
-                            <h5 class="mb-0">Maureen Wanjiku</h5>
-                            <small>Client Service Executive</small>
-                        </div>
-                    </div>
-                </div>
+                
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item bg-light">
                         <div class=" overflow-hidden ">
@@ -321,7 +304,24 @@
                         </div>
                     </div>
                 </div>
-
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="team-item bg-light">
+                        <div class=" overflow-hidden ">
+                            <img class="img-fluid w-100" src="img/team/sally.jpg" alt="MG Marketing">
+                        </div>
+                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
+                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
+                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.facebook.com/salome.muthoni.5680" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a> -->
+                                <a class="btn btn-sm-square btn-primary mx-1" href="https://anchor.fm/muhuni" target="_blank"><i class="fab fa-spotify"></i></a>
+                            </div>
+                        </div>
+                        <div class="text-center p-4">
+                            <h5 class="mb-0">Salome Muthoni</h5>
+                            <small>Social Media Specialist </small>
+                        </div>
+                    </div>
+                </div>
 
             </div>
         </div>
