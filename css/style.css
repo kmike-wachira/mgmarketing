@@ -263,7 +263,7 @@
 .service-item {
     background: var(--light);
     transition: .5s;
-}
+    }
 
 .service-item:hover {
     margin-top: -10px;

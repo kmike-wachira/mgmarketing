@@ -139,26 +139,6 @@
                         </div>
                     </div>
                 </div>
-                
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="team-item bg-light">
-                        <div class=" overflow-hidden ">
-                            <img class="img-fluid w-100" src="img/team/ken.jpg" alt="MG Marketing">
-                        </div>
-                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
-                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.facebook.com/kenneth.gichinga.7" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a> -->
-                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href="" target="_blank"><i class="fab fa-instagram"></i></a> -->
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.linkedin.com/in/kenneth-gichinga-38b59419b/" target="_blank"><i class="fab fa-linkedin"></i></a>
-                            </div>
-                        </div>
-                        <div class="text-center p-4">
-                            <h5 class="mb-0">Kenneth Gichinga</h5>
-                            <small> Business Development Manager</small>
-                        </div>
-                    </div>
-                </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item bg-light">
                         <div class=" overflow-hidden ">
@@ -179,7 +159,6 @@
                         </div>
                     </div>
                 </div>
-                
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item bg-light">
                         <div class=" overflow-hidden ">
@@ -195,7 +174,43 @@
                         </div>
                         <div class="text-center p-4">
                             <h5 class="mb-0">Mike Kariuki</h5>
-                            <small>Web Developer & Graphic Designer </small>
+                            <small>Graphic Designer & Web Developer</small>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="team-item bg-light">
+                        <div class=" overflow-hidden ">
+                            <img class="img-fluid w-100" src="img/team/sally.jpg" alt="MG Marketing">
+                        </div>
+                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
+                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
+                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.facebook.com/salome.muthoni.5680" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a> -->
+                                <a class="btn btn-sm-square btn-primary mx-1" href="https://anchor.fm/muhuni" target="_blank"><i class="fab fa-spotify"></i></a>
+                            </div>
+                        </div>
+                        <div class="text-center p-4">
+                            <h5 class="mb-0">Salome Muthoni</h5>
+                            <small>Digital Marketing Strategist</small>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="team-item bg-light">
+                        <div class=" overflow-hidden ">
+                            <img class="img-fluid w-100" src="img/team/kaluc.jpg" alt="MG Marketing">
+                        </div>
+                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
+                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
+                            <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a> -->
+                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a> -->
+                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a> -->
+                            </div>
+                        </div>
+                        <div class="text-center p-4">
+                            <h5 class="mb-0">Lucy Muchai</h5>
+                            <small>Social Media Marketing Specialist </small>
                         </div>
                     </div>
                 </div>
@@ -214,14 +229,14 @@
                         </div>
                         <div class="text-center p-4">
                             <h5 class="mb-0">John Akoyi</h5>
-                            <small> Photographer & Videographer </small>
+                            <small> Videographer & Photographer </small>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item bg-light">
                         <div class=" overflow-hidden ">
-                            <img class="img-fluid w-100" src="img/team/kaluc.jpg" alt="MG Marketing">
+                            <img class="img-fluid w-100" src="img/team/lizmuthoni.jpg" alt="MG Marketing">
                         </div>
                         <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
                             <div class="bg-light d-flex justify-content-center pt-2 px-1">
@@ -231,31 +246,47 @@
                             </div>
                         </div>
                         <div class="text-center p-4">
-                            <h5 class="mb-0">Lucy Muchai</h5>
-                            <small>Social Media Specialist </small>
+                            <h5 class="mb-0">Liz Muthoni</h5>
+                            <small>Content Creation Head </small>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="team-item bg-light">
+                         <div class=" overflow-hidden ">
+                            <img class="img-fluid w-100" src="img/team/susanmurugi.jpg" alt="MG Marketing">
+                        </div>
+                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
+                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
+                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a> -->
+                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a> -->
+                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a> -->
+                            </div>
+                        </div>
+                        <div class="text-center p-4">
+                            <h5 class="mb-0">Susan Murugi</h5>
+                            <small>Client Service Executive </small>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item bg-light">
                         <div class=" overflow-hidden ">
-                            <img class="img-fluid w-100" src="img/team/sally.jpg" alt="MG Marketing">
+                            <img class="img-fluid w-100" src="img/team/rachaelnjoroge.jpg" alt="MG Marketing">
                         </div>
                         <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
                             <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.facebook.com/salome.muthoni.5680" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                               <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a> -->
                                 <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a> -->
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://anchor.fm/muhuni" target="_blank"><i class="fab fa-spotify"></i></a>
+                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a> -->
                             </div>
                         </div>
                         <div class="text-center p-4">
-                            <h5 class="mb-0">Salome Muthoni</h5>
-                            <small>Social Media Specialist </small>
+                            <h5 class="mb-0">Rachael Njoroge</h5>
+                            <small>Community Programme Manager </small>
                         </div>
                     </div>
                 </div>
-
-
             </div>
         </div>
     </div>

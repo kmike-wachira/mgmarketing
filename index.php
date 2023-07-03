@@ -208,7 +208,7 @@
         <div class="container header-back-container">
             <div class="row g-4">
                 <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="service-item text-center pt-3">
+                    <div class="service-item text-center pt-3 h-100">
                         <div class="p-4">
                             <!-- <i class="fas fa-bullseye"></i> -->
                             <i class=" fa-3x fas fa-bullseye text-primary mb-4"></i>
@@ -218,7 +218,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="service-item text-center pt-3">
+                    <div class="service-item text-center pt-3 h-100">
                         <div class="p-4">
                             <i class="fas fa-3x fa-chart-line  text-primary mb-4"></i>
                             <h5 class="mb-3">Vision</h5>
@@ -229,7 +229,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="service-item text-center pt-3">
+                    <div class="service-item text-center pt-3 h-100">
                         <div class="p-4">
                             <i class="fas fa-anchor fa-3x text-primary mb-4"></i>
                             <h5 class="mb-3">Core Values</h5>
@@ -246,7 +246,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
-                    <div class="service-item text-center pt-3">
+                    <div class="service-item text-center pt-3 h-100">
                         <div class="p-4">
                             <i class="fa fa-3x fa-users text-primary mb-4"></i>
                             <h5 class="mb-3">Team Work</h5>
@@ -307,22 +307,22 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item bg-light">
                         <div class=" overflow-hidden ">
-                            <img class="img-fluid w-100" src="img/team/sally.jpg" alt="MG Marketing">
+                            <img class="img-fluid w-100" src="img/team/kmike.jpg" alt="MG Marketing">
                         </div>
                         <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
                             <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.facebook.com/salome.muthoni.5680" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.facebook.com/michael.wachira.98434" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                 <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a> -->
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://anchor.fm/muhuni" target="_blank"><i class="fab fa-spotify"></i></a>
+                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.instagram.com/wacirakmike/" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.linkedin.com/in/michael-kariuki-73bab3186/" target="_blank"><i class="fab fa-linkedin"></i></a>
                             </div>
                         </div>
                         <div class="text-center p-4">
-                            <h5 class="mb-0">Salome Muthoni</h5>
-                            <small>Social Media Specialist </small>
+                            <h5 class="mb-0">Mike Kariuki</h5>
+                            <small>Graphic Designer & Web Developer</small>
                         </div>
                     </div>
                 </div>
-
             </div>
         </div>
     </div>
