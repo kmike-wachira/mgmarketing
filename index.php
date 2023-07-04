@@ -272,13 +272,6 @@
                         <div class="overflow-hidden">
                             <img class="w-100 img-fluid" src="img/team/george.jpg" alt="MG Marketing">
                         </div>
-                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
-                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.facebook.com/george.juxtor" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a> -->
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.instagram.com/georgejuxtor/" target=""><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
                         <div class="text-center p-4">
                             <h5 class="mb-0">George Muturi</h5>
                             <small>General Manager </small>
@@ -291,13 +284,6 @@
                         <div class=" overflow-hidden ">
                             <img class="img-fluid w-100" src="img/team/njeri.jpg" alt="MG Marketing">
                         </div>
-                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
-                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                                <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a> -->
-                                <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
                         <div class="text-center p-4">
                             <h5 class="mb-0">Phylis Njeri</h5>
                             <small>Administrative Assistant </small>
@@ -308,14 +294,6 @@
                     <div class="team-item bg-light">
                         <div class=" overflow-hidden ">
                             <img class="img-fluid w-100" src="img/team/kmike.jpg" alt="MG Marketing">
-                        </div>
-                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
-                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.facebook.com/michael.wachira.98434" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a> -->
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.instagram.com/wacirakmike/" target="_blank"><i class="fab fa-instagram"></i></a>
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.linkedin.com/in/michael-kariuki-73bab3186/" target="_blank"><i class="fab fa-linkedin"></i></a>
-                            </div>
                         </div>
                         <div class="text-center p-4">
                             <h5 class="mb-0">Mike Kariuki</h5>

@@ -124,15 +124,6 @@
                         <div class="overflow-hidden">
                             <img class="w-100 img-fluid" src="img/team/george.jpg" alt="MG Marketing">
                         </div>
-                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
-                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.facebook.com/george.juxtor" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a> -->
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.instagram.com/georgejuxtor/" target="_blank"><i class="fab fa-instagram"></i></a>
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.linkedin.com/in/george-muturi-13b17948/" target="_blank"><i class="fab fa-linkedin"></i></a>
-
-                            </div>
-                        </div>
                         <div class="text-center p-4">
                             <h5 class="mb-0">George Muturi</h5>
                             <small>General Manager </small>
@@ -143,15 +134,6 @@
                     <div class="team-item bg-light">
                         <div class=" overflow-hidden ">
                             <img class="img-fluid w-100" src="img/team/njeri.jpg" alt="MG Marketing">
-                        </div>
-                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
-                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.facebook.com/njeri.muiruri.566" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a> -->
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.instagram.com/phylliz91/" target="_blank"><i class="fab fa-instagram"></i></a>
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://twitter.com/njeriM16" target="_blank"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-sm-square btn-primary mx-1" href=" https://www.linkedin.com/in/njeri-muiruri-01b7a519a/" target="_blank"><i class="fab fa-linkedin"></i></a>
-                            </div>
                         </div>
                         <div class="text-center p-4">
                             <h5 class="mb-0">Phylis Njeri</h5>
@@ -164,14 +146,6 @@
                         <div class=" overflow-hidden ">
                             <img class="img-fluid w-100" src="img/team/kmike.jpg" alt="MG Marketing">
                         </div>
-                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
-                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.facebook.com/michael.wachira.98434" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a> -->
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.instagram.com/wacirakmike/" target="_blank"><i class="fab fa-instagram"></i></a>
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.linkedin.com/in/michael-kariuki-73bab3186/" target="_blank"><i class="fab fa-linkedin"></i></a>
-                            </div>
-                        </div>
                         <div class="text-center p-4">
                             <h5 class="mb-0">Mike Kariuki</h5>
                             <small>Graphic Designer & Web Developer</small>
@@ -182,13 +156,6 @@
                     <div class="team-item bg-light">
                         <div class=" overflow-hidden ">
                             <img class="img-fluid w-100" src="img/team/sally.jpg" alt="MG Marketing">
-                        </div>
-                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
-                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.facebook.com/salome.muthoni.5680" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a> -->
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://anchor.fm/muhuni" target="_blank"><i class="fab fa-spotify"></i></a>
-                            </div>
                         </div>
                         <div class="text-center p-4">
                             <h5 class="mb-0">Salome Muthoni</h5>
@@ -201,13 +168,6 @@
                         <div class=" overflow-hidden ">
                             <img class="img-fluid w-100" src="img/team/kaluc.jpg" alt="MG Marketing">
                         </div>
-                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
-                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                            <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a> -->
-                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a> -->
-                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a> -->
-                            </div>
-                        </div>
                         <div class="text-center p-4">
                             <h5 class="mb-0">Lucy Muchai</h5>
                             <small>Social Media Marketing Specialist </small>
@@ -218,14 +178,6 @@
                     <div class="team-item bg-light">
                         <div class=" overflow-hidden ">
                             <img class="img-fluid w-100" src="img/team/john.jpg" alt="MG Marketing">
-                        </div>
-                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
-                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.facebook.com/juhanny.johns" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a> -->
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.instagram.com/lucianjohns/" target="_blank"><i class="fab fa-instagram"></i></a>
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://twitter.com/johnslucian?t=vjxt5Grd_JeVd5FDA0eqwQ&s=09" target="_blank"><i class="fab fa-twitter"></i></a>
-                            </div>
                         </div>
                         <div class="text-center p-4">
                             <h5 class="mb-0">John Akoyi</h5>
@@ -238,13 +190,6 @@
                         <div class=" overflow-hidden ">
                             <img class="img-fluid w-100" src="img/team/lizmuthoni.jpg" alt="MG Marketing">
                         </div>
-                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
-                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a> -->
-                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a> -->
-                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a> -->
-                            </div>
-                        </div>
                         <div class="text-center p-4">
                             <h5 class="mb-0">Liz Muthoni</h5>
                             <small>Content Creation Head </small>
@@ -256,13 +201,6 @@
                          <div class=" overflow-hidden ">
                             <img class="img-fluid w-100" src="img/team/susanmurugi.jpg" alt="MG Marketing">
                         </div>
-                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
-                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a> -->
-                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a> -->
-                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a> -->
-                            </div>
-                        </div>
                         <div class="text-center p-4">
                             <h5 class="mb-0">Susan Murugi</h5>
                             <small>Client Service Executive </small>
@@ -273,13 +211,6 @@
                     <div class="team-item bg-light">
                         <div class=" overflow-hidden ">
                             <img class="img-fluid w-100" src="img/team/rachaelnjoroge.jpg" alt="MG Marketing">
-                        </div>
-                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
-                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                               <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a> -->
-                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a> -->
-                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a> -->
-                            </div>
                         </div>
                         <div class="text-center p-4">
                             <h5 class="mb-0">Rachael Njoroge</h5>
