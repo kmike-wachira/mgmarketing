@@ -288,7 +288,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item bg-light">
                         <div class=" overflow-hidden ">
-                            <img class="img-fluid w-100" src="img/team/mo.jpg" alt="MG Marketing">
+                             <img class="img-fluid w-100" src="img/team/kmike.jpg" alt="MG Marketing">
                         </div>
                         <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
                             <div class="bg-light d-flex justify-content-center pt-2 px-1">
@@ -298,8 +298,8 @@
                             </div>
                         </div>
                         <div class="text-center p-4">
-                            <h5 class="mb-0">Maureen Wanjiku</h5>
-                            <small>Client Service Executive</small>
+                            <h5 class="mb-0">Mike Kariuki</h5>
+                            <small>Web Developer & Graphic Designer </small>
                         </div>
                     </div>
                 </div>
@@ -396,7 +396,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <h4 class="text-white mb-3">Contact</h4>
-                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Highway Towers Rm 708B, Nakuru,Kenya</p>
+                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Riva Business Centre Rm 515, Nakuru,Kenya</p>
                     <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+254 712 261633</p>
                     <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@mgmarketing.co.ke</p>
                     <div class="d-flex pt-2">

@@ -210,7 +210,7 @@
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
                     <h6 class="section-title bg-white text-start text-primary pe-3">Service</h6>
-                    <h3 class="mb-4 text-uppercase">Wbsite design</h3>
+                    <h3 class="mb-4 text-uppercase">Website design</h3>
                     <p class="mb-4">What Is the Purpose of Having a Website?
                         The short answer is that websites can help you generate business, sales, and leads, as well as increase the value of your brand.
                         It aids in increasing credibility in the eyes of customers and allows businesses to showcase their services to a targeted audience.
@@ -254,7 +254,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <h4 class="text-white mb-3">Contact</h4>
-                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Highway Towers Rm 708B, Nakuru,Kenya</p>
+                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Riva Business Centre Rm 515, Nakuru,Kenya</p>
                     <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+254 712 261633</p>
                     <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@mgmarketing.co.ke</p>
                     <div class="d-flex pt-2">

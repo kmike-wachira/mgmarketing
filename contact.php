@@ -123,7 +123,7 @@
                         </div>
                         <div class="ms-3">
                             <h5 class="text-primary">Office</h5>
-                            <p class="mb-0">Highway Towers, Nakuru, Kenya</p>
+                            <p class="mb-0">Riva Business Centre, Nakuru, Kenya</p>
                         </div>
                     </div>
                     <div class="d-flex align-items-center mb-3">
@@ -148,7 +148,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s"> -0.2834189210534579, 36.07358846921032
 
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.769561635625!2d36.07040781415299!3d-0.28326153543278226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x18298d96b10c1e6b%3A0xc28dc43cc121646a!2sHighway%20Towers!5e0!3m2!1sen!2ske!4v1646222568575!5m2!1sen!2ske" style="border:0; min-height:600" allowfullscreen="" height=" 100%" loading="lazy"></iframe>
 
@@ -187,6 +187,7 @@
                                     <textarea class="form-control" name="message" required placeholder="Leave a message here" id="message" style="height: 150px"></textarea>
                                     <label for="message">Message</label>
                                 </div>
+                                <button type="submit" name="wpforms[submit]" id="wpforms-submit-2488" class="wpforms-submit" data-alt-text="Sending..." data-submit-text="Send Message" aria-live="assertive" value="wpforms-submit">Send Message</button>
                             </div>
                             <div class="col-12 d-none">
                                 <button class="btn btn-primary w-100 py-3" type="submit">Send Message </button>
@@ -220,7 +221,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <h4 class="text-white mb-3">Contact</h4>
-                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Highway Towers Rm 708B, Nakuru,Kenya</p>
+                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Riva Business Centre Rm 515, Nakuru,Kenya</p>
                     <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+254 712 261633</p>
                     <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@mgmarketing.co.ke</p>
                     <div class="d-flex pt-2">
