@@ -193,6 +193,7 @@
                                 <li> Innovative </li>
                                 <li> Creative </li>
                                 <li> Efficient </li>
+                                <li> Authenticity <li>
                             </ul>
                             </p>
                         </div>
