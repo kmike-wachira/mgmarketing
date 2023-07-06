@@ -293,11 +293,11 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item bg-light">
                         <div class=" overflow-hidden ">
-                            <img class="img-fluid w-100" src="img/team/kmike.jpg" alt="MG Marketing">
+                            <img class="img-fluid w-100" src="img/team/sally.jpg" alt="MG Marketing">
                         </div>
                         <div class="text-center p-4">
-                            <h5 class="mb-0">Mike Kariuki</h5>
-                            <small>Graphic Designer & Web Developer</small>
+                            <h5 class="mb-0">Salome Muthoni</h5>
+                            <small>Digital Marketing Strategist</small>
                         </div>
                     </div>
                 </div>
