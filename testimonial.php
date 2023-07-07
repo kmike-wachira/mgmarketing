@@ -177,7 +177,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <h4 class="text-white mb-3">Contact</h4>
-                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Highway Towers Rm 708B, Nakuru,Kenya</p>
+                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Riva Business Centre Rm 515, Nakuru,Kenya</p>
                     <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+254 712 261633</p>
                     <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@mgmarketing.co.ke</p>
                     <div class="d-flex pt-2">
