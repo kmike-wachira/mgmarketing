@@ -208,7 +208,7 @@
         <div class="container header-back-container">
             <div class="row g-4">
                 <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="service-item text-center pt-3">
+                    <div class="service-item text-center pt-3 h-100">
                         <div class="p-4">
                             <!-- <i class="fas fa-bullseye"></i> -->
                             <i class=" fa-3x fas fa-bullseye text-primary mb-4"></i>
@@ -218,7 +218,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="service-item text-center pt-3">
+                    <div class="service-item text-center pt-3 h-100">
                         <div class="p-4">
                             <i class="fas fa-3x fa-chart-line  text-primary mb-4"></i>
                             <h5 class="mb-3">Vision</h5>
@@ -229,7 +229,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="service-item text-center pt-3">
+                    <div class="service-item text-center pt-3 h-100">
                         <div class="p-4">
                             <i class="fas fa-anchor fa-3x text-primary mb-4"></i>
                             <h5 class="mb-3">Core Values</h5>
@@ -246,7 +246,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
-                    <div class="service-item text-center pt-3">
+                    <div class="service-item text-center pt-3 h-100">
                         <div class="p-4">
                             <i class="fa fa-3x fa-users text-primary mb-4"></i>
                             <h5 class="mb-3">Team Work</h5>
@@ -272,48 +272,17 @@
                         <div class="overflow-hidden">
                             <img class="w-100 img-fluid" src="img/team/george.jpg" alt="MG Marketing">
                         </div>
-                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
-                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.facebook.com/george.juxtor" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a> -->
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.instagram.com/georgejuxtor/" target=""><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
                         <div class="text-center p-4">
                             <h5 class="mb-0">George Muturi</h5>
                             <small>General Manager </small>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="team-item bg-light">
-                        <div class=" overflow-hidden ">
-                            <img class="img-fluid w-100" src="img/team/mo.jpg" alt="MG Marketing">
-                        </div>
-                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
-                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.facebook.com/cheexs.makai" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a> -->
-                                <a class="btn btn-sm-square btn-primary mx-1" href="https://www.instagram.com/cheexs_makai/" target="_blank"><i class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                        <div class="text-center p-4">
-                            <h5 class="mb-0">Maureen Wanjiku</h5>
-                            <small>Client Service Executive</small>
-                        </div>
-                    </div>
-                </div>
+                
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item bg-light">
                         <div class=" overflow-hidden ">
                             <img class="img-fluid w-100" src="img/team/njeri.jpg" alt="MG Marketing">
-                        </div>
-                        <div class="position-relative d-flex justify-content-center" style="margin-top: -23px;">
-                            <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                                <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                <!-- <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a> -->
-                                <a class="btn btn-sm-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a>
-                            </div>
                         </div>
                         <div class="text-center p-4">
                             <h5 class="mb-0">Phylis Njeri</h5>
@@ -321,8 +290,17 @@
                         </div>
                     </div>
                 </div>
-
-
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="team-item bg-light">
+                        <div class=" overflow-hidden ">
+                            <img class="img-fluid w-100" src="img/team/sally.jpg" alt="MG Marketing">
+                        </div>
+                        <div class="text-center p-4">
+                            <h5 class="mb-0">Salome Muthoni</h5>
+                            <small>Digital Marketing Strategist</small>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -396,7 +374,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <h4 class="text-white mb-3">Contact</h4>
-                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Highway Towers Rm 708B, Nakuru,Kenya</p>
+                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Riva Business Centre Rm 515, Nakuru,Kenya</p>
                     <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+254 712 261633</p>
                     <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@mgmarketing.co.ke</p>
                     <div class="d-flex pt-2">
