@@ -68,7 +68,7 @@
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light shadow sticky-top p-0">
         <a href="index.php" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
-            <img loading="lazy" src="img/mglogo.png" height="80" alt="MG Marketing" srcset="">
+            <img loading="lazy" src="img/logos/mgnew.png" height="120" alt="MG Marketing" srcset="">
             <!-- <h2 class="m-0 text-primary"><i class="fa fa-book me-3"></i>MG Marketing</h2> -->
         </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -144,25 +144,15 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item bg-light">
                         <div class=" overflow-hidden ">
-                            <img class="img-fluid w-100" src="img/team/sally.jpg" alt="MG Marketing">
+                            <img class="w-100" style="height: 50%;" src="img/team/muhuni.png" alt="MG Marketing">
                         </div>
                         <div class="text-center p-4">
-                            <h5 class="mb-0">Salome Muthoni</h5>
-                            <small>Digital Marketing Strategist</small>
+                            <h5 class="mb-0">Muhuni Muthoni</h5>
+                            <small>Marketing Manager</small>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="team-item bg-light">
-                        <div class=" overflow-hidden ">
-                            <img class="img-fluid w-100" src="img/team/kmike.jpg" alt="MG Marketing">
-                        </div>
-                        <div class="text-center p-4">
-                            <h5 class="mb-0">Mike Kariuki</h5>
-                            <small>Graphic Designer & Web Developer</small>
-                        </div>
-                    </div>
-                </div>
+                
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item bg-light">
                         <div class=" overflow-hidden ">
@@ -188,7 +178,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item bg-light">
                         <div class=" overflow-hidden ">
-                            <img class="img-fluid w-100" src="img/team/lizmuthoni.jpg" alt="MG Marketing">
+                            <img class="img-fluid w-100" src="img/team/elizer.png" alt="MG Marketing">
                         </div>
                         <div class="text-center p-4">
                             <h5 class="mb-0">Liz Muthoni</h5>
@@ -197,6 +187,17 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="team-item bg-light">
+                        <div class=" overflow-hidden ">
+                            <img class="img-fluid w-100" src="img/team/emkay.png" alt="MG Marketing">
+                        </div>
+                        <div class="text-center p-4">
+                            <h5 class="mb-0">Kariuki Kariuki</h5>
+                            <small>Graphic Designer & Web Developer</small>
+                        </div>
+                    </div>
+                </div>
+                <!-- <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item bg-light">
                          <div class=" overflow-hidden ">
                             <img class="img-fluid w-100" src="img/team/susanmurugi.jpg" alt="MG Marketing">
@@ -217,7 +218,7 @@
                             <small>Community Programme Manager </small>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
