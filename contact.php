@@ -16,7 +16,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- Favicon
     ================================================== -->
-    <link rel="icon" type="image/png" href="https://mgmarketing.co.ke/img/mglogo.png">
+    <link rel="icon" type="image/png" href="https://mgmarketing.co.ke/img/logos/mgnew.png">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -65,7 +65,7 @@
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light shadow sticky-top p-0">
         <a href="index.php" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
-            <img loading="lazy" src="img/mglogo.png" height="80" alt="MG Marketing" srcset="">
+            <img loading="lazy" src="img/logos/mgnew.png" height="120" alt="MG Marketing" srcset="">
             <!-- <h2 class="m-0 text-primary"><i class="fa fa-book me-3"></i>MG Marketing</h2> -->
         </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -111,19 +111,18 @@
         <div class="container">
             <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
                 <h6 class="section-title bg-white text-center text-primary px-3">Contact Us</h6>
-                <h1 class="mb-5">Contact Us Any Query</h1>
             </div>
             <div class="row g-4">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <h5>Get In Touch</h5>
-                    <p class="mb-4">We Love hearing from you. Let us hear what you have to say</p>
+                    <p class="mb-4">We Love hearing from you.</p>
                     <div class="d-flex align-items-center mb-3">
                         <div class="d-flex align-items-center justify-content-center flex-shrink-0 bg-primary" style="width: 50px; height: 50px;">
                             <i class="fa fa-map-marker-alt text-white"></i>
                         </div>
                         <div class="ms-3">
                             <h5 class="text-primary">Office</h5>
-                            <p class="mb-0">Riva Business Centre, Nakuru, Kenya</p>
+                            <p class="mb-0">Riva Business Centre, Nakuru, Kenya <br> 5th Floor, Rm 515</p>
                         </div>
                     </div>
                     <div class="d-flex align-items-center mb-3">
