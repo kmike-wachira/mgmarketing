@@ -112,6 +112,8 @@
             <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
                 <h6 class="section-title bg-white text-center text-primary px-3">Contact Us</h6>
             </div>
+            <br>
+            <br>
             <div class="row g-4">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <h5>Get In Touch</h5>
@@ -149,8 +151,8 @@
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
 
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.769561635625!2d36.07040781415299!3d-0.28326153543278226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x18298d96b10c1e6b%3A0xc28dc43cc121646a!2sHighway%20Towers!5e0!3m2!1sen!2ske!4v1646222568575!5m2!1sen!2ske" style="border:0; min-height:600" allowfullscreen="" height=" 100%" loading="lazy"></iframe>
-
+                    <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.769561635625!2d36.07040781415299!3d-0.28326153543278226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x18298d96b10c1e6b%3A0xc28dc43cc121646a!2sHighway%20Towers!5e0!3m2!1sen!2ske!4v1646222568575!5m2!1sen!2ske" style="border:0; min-height:600" allowfullscreen="" height=" 100%" loading="lazy"></iframe> -->
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6709.965270468694!2d36.07119532730571!3d-0.2842506258952047!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x18298d91508df867%3A0x4afbb5420863a1ed!2sRIVA%20Business%20Center%2C%20Kenyatta%20Ave%2C%20Nakuru!5e0!3m2!1sen!2ske!4v1700896409993!5m2!1sen!2ske" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
                 <div class="col-lg-4 col-md-12 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="alert alert-success alert-dismissible fade d-none" id="success" role="alert">
