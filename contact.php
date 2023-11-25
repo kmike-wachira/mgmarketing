@@ -16,7 +16,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- Favicon
     ================================================== -->
-    <link rel="icon" type="image/png" href="https://mgmarketing.co.ke/img/mglogo.png">
+    <link rel="icon" type="image/png" href="https://mgmarketing.co.ke/img/logos/mgnew.png">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -65,7 +65,7 @@
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light shadow sticky-top p-0">
         <a href="index.php" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
-            <img loading="lazy" src="img/mglogo.png" height="80" alt="MG Marketing" srcset="">
+            <img loading="lazy" src="img/logos/mgnew.png" height="120" alt="MG Marketing" srcset="">
             <!-- <h2 class="m-0 text-primary"><i class="fa fa-book me-3"></i>MG Marketing</h2> -->
         </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -111,19 +111,20 @@
         <div class="container">
             <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
                 <h6 class="section-title bg-white text-center text-primary px-3">Contact Us</h6>
-                <h1 class="mb-5">Contact Us Any Query</h1>
             </div>
+            <br>
+            <br>
             <div class="row g-4">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <h5>Get In Touch</h5>
-                    <p class="mb-4">We Love hearing from you. Let us hear what you have to say</p>
+                    <p class="mb-4">We Love hearing from you.</p>
                     <div class="d-flex align-items-center mb-3">
                         <div class="d-flex align-items-center justify-content-center flex-shrink-0 bg-primary" style="width: 50px; height: 50px;">
                             <i class="fa fa-map-marker-alt text-white"></i>
                         </div>
                         <div class="ms-3">
                             <h5 class="text-primary">Office</h5>
-                            <p class="mb-0">Riva Business Centre, Nakuru, Kenya</p>
+                            <p class="mb-0">Riva Business Centre, Nakuru, Kenya <br> 5th Floor, Rm 515</p>
                         </div>
                     </div>
                     <div class="d-flex align-items-center mb-3">
@@ -150,8 +151,8 @@
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
 
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.769561635625!2d36.07040781415299!3d-0.28326153543278226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x18298d96b10c1e6b%3A0xc28dc43cc121646a!2sHighway%20Towers!5e0!3m2!1sen!2ske!4v1646222568575!5m2!1sen!2ske" style="border:0; min-height:600" allowfullscreen="" height=" 100%" loading="lazy"></iframe>
-
+                    <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.769561635625!2d36.07040781415299!3d-0.28326153543278226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x18298d96b10c1e6b%3A0xc28dc43cc121646a!2sHighway%20Towers!5e0!3m2!1sen!2ske!4v1646222568575!5m2!1sen!2ske" style="border:0; min-height:600" allowfullscreen="" height=" 100%" loading="lazy"></iframe> -->
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6709.965270468694!2d36.07119532730571!3d-0.2842506258952047!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x18298d91508df867%3A0x4afbb5420863a1ed!2sRIVA%20Business%20Center%2C%20Kenyatta%20Ave%2C%20Nakuru!5e0!3m2!1sen!2ske!4v1700896409993!5m2!1sen!2ske" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
                 <div class="col-lg-4 col-md-12 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="alert alert-success alert-dismissible fade d-none" id="success" role="alert">

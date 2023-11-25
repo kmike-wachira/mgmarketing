@@ -30,7 +30,7 @@
 
     <!-- Favicon
 ================================================== -->
-    <link rel="icon" type="image/png" href="https://mgmarketing.co.ke/img/mglogo.png">
+    <link rel="icon" type="image/png" href="https://mgmarketing.co.ke/img/logos/mgnew.png">
 
 
     <!-- Google Web Fonts -->
@@ -67,7 +67,7 @@
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light shadow sticky-top p-0">
         <a href="index.php" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
-            <img src="img/mglogo.png" height="80" alt="MG Marketing" srcset="">
+            <img src="img/logos/mgnew.png" height="120" alt="MG Marketing" srcset="">
             <!-- <h2 class="m-0 text-primary"><i class="fa fa-book me-3"></i>MG Marketing</h2> -->
         </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -99,9 +99,9 @@
                     <div class="container">
                         <div class="row justify-content-start">
                             <div class="col-sm-10 col-lg-8">
-                                <h5 class="text-primary text-uppercase mb-3 animated slideInDown">Best Social Media
+                                <!-- <h5 class="text-primary text-uppercase mb-3 animated slideInDown">Best Social Media
                                     Marketing
-                                </h5>
+                                </h5> -->
                                 <h3 class="connect text-white animated slideInDown">Connecting brands with customers
                                 </h3>
                                 <!-- <p class="fs-5 text-white mb-4 pb-2">Vero elitr justo clita lorem. Ipsum dolor at sed
@@ -123,8 +123,7 @@
                             <div class="col-sm-10 col-lg-8">
                                 <h5 class="text-primary text-uppercase mb-3 animated slideInDown">Deliverables
                                 </h5>
-                                <h1 class="display-3 text-white animated slideInDown">You are guaranteed with reaching
-                                    the target audience.
+                                <h1 class="display-3 text-white animated slideInDown">Reach your target audience
                                 </h1>
                                 <!-- <p class="fs-5 text-white mb-4 pb-2">Vero elitr justo clita lorem. Ipsum dolor at sed
                                     stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea sanctus
@@ -224,7 +223,7 @@
                             <h5 class="mb-3">Vision</h5>
                             <p>To help businesses and brands have a strong social media presence and leverage on the
                                 huge
-                                online potential to grow their revenue share</p>
+                                online potential to grow their market share</p>
                         </div>
                     </div>
                 </div>
@@ -293,11 +292,11 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item bg-light">
                         <div class=" overflow-hidden ">
-                            <img class="img-fluid w-100" src="img/team/sally.jpg" alt="MG Marketing">
+                            <img class="img-fluid w-100" src="img/team/muhuni.png" alt="MG Marketing">
                         </div>
                         <div class="text-center p-4">
-                            <h5 class="mb-0">Salome Muthoni</h5>
-                            <small>Digital Marketing Strategist</small>
+                            <h5 class="mb-0">Muhuni Muthoni</h5>
+                            <small>Marketing Manager</small>
                         </div>
                     </div>
                 </div>
@@ -309,7 +308,7 @@
     <div class="container-xxl py-5 call-to-action d-flex align-items-center justify-content-center">
         <div class=" container row bg-light p-5 shadow rounded-1">
             <div class="col-md-8 col-lg-8">
-                <h1 class=" text-warning">Like What you see?? Get in touch</h1>
+                <h1 class=" text-warning">Like What you see? Get in touch</h1>
             </div>
             <div class="col-md-3 col-log-4 d-flex justify-content-center">
                 <a class="btn btn-primary py-2 rounded-1 align-self-center" href="tel:+254 712 261633">Contact Us <i class="fas fa-arrow-right shadow mx-3"></i></a>

@@ -68,7 +68,7 @@
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light shadow sticky-top p-0">
         <a href="index.php" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
-            <img loading="lazy" src="img/mglogo.png" height="80" alt="MG Marketing" srcset="">
+            <img loading="lazy" src="img/logos/mgnew.png" height="120" alt="MG Marketing" srcset="">
             <!-- <h2 class="m-0 text-primary"><i class="fa fa-book me-3"></i>MG Marketing</h2> -->
         </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">

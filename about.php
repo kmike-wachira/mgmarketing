@@ -30,7 +30,7 @@
 
     <!-- Favicon
     ================================================== -->
-    <link rel="icon" type="image/png" href="https://mgmarketing.co.ke/img/mglogo.png">
+    <link rel="icon" type="image/png" href="https://mgmarketing.co.ke/img/mgnew.png">
 
 
     <!-- Google Web Fonts -->
@@ -67,7 +67,7 @@
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light shadow sticky-top p-0">
         <a href="index.php" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
-            <img src="img/mglogo.png" height="80" alt="MG Marketing" srcset="">
+            <img src="img/logos/mgnew.png" height="120" alt="MG Marketing" srcset="">
             <!-- <h2 class="m-0 text-primary"><i class="fa fa-book me-3"></i>MG Marketing</h2> -->
         </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -127,7 +127,7 @@
                     <p class="mb-4">MG Marketing is a Digital Marketing Firm that strives to satisfy our Clients' needs through
                         various Social Media Platforms. We aim to reach the desired target audience and encourage the growth of
                         subsequent returns on Social investment. Our team remains committed to
-                        creating and managing your Social Media Visibility and in collaborating with our clients to produce consistent and systemic revenue growth.</p>
+                        creating and managing your Social Media Visibility and in collaborating with our clients to produce consistent and systemic market growth.</p>
                     <div class="mb-4"> Skillset</div>
                     <div class="row gy-2 gx-4 mb-4">
                         <div class="col-sm-6">
@@ -177,7 +177,7 @@
                             <h5 class="mb-3">Vision</h5>
                             <p>To help businesses and brands have a strong social media presence and leverage on the
                                 huge
-                                online potential to grow their revenue share</p>
+                                online potential to grow their market share</p>
                         </div>
                     </div>
                 </div>
@@ -250,7 +250,7 @@
                             <img class="img-fluid w-100" src="img/team/sally.jpg" alt="MG Marketing">
                         </div>
                         <div class="text-center p-4">
-                            <h5 class="mb-0">Salome Muthoni</h5>
+                            <h5 class="mb-0">Muhuni Muthoni</h5>
                             <small>Digital Marketing Strategist</small>
                         </div>
                     </div>
@@ -267,7 +267,7 @@
         <div class="container">
             <div class="text-center">
                 <!-- <h6 class="section-title bg-white text-center text-primary px-3">Our Clients</h6> -->
-                <h1 class="mb-5">We are trusted by...</h1>
+                <h1 class="mb-5">TRUSTED BY...</h1>
             </div>
             <div class="owl-carousel clients-carousel position-relative">
                 <div class="testimonial-item text-center">
