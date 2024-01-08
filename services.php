@@ -212,13 +212,13 @@ Nothing beats a great Visual and we have that on lock.
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
                     <h6 class="section-title bg-white text-start text-primary pe-3">Service</h6>
-                    <h3 class="mb-4 text-uppercase">Wbsite design</h3>
+                    <h3 class="mb-4 text-uppercase">Website design</h3>
                     <p class="mb-4">What Is the Purpose of Having a Website?
                         The short answer is that websites can help you generate business, sales, and leads, as well as increase the value of your brand.
                         It aids in increasing credibility in the eyes of customers and allows businesses to showcase their services to a targeted audience.
                         Your business could close for the day at 6 p.m., with no one answering the phone to answer questions about it. Your website, on the
                         other hand, will be up and running 24 hours a day, 365 days a year, promoting your company and introducing your services to potential customers.</p>
-                </div>
+                </div> 
             </div>
         </div>
     </div>
@@ -230,7 +230,7 @@ Nothing beats a great Visual and we have that on lock.
                 <h1 class=" text-warning">Like What you see?? Get in touch</h1>
             </div>
             <div class="col-md-3 col-log-4 d-flex justify-content-center">
-                <a class="btn btn-primary py-2 rounded-1" href="tel:+254 712 261633">Contact Us <i class="fas fa-arrow-right shadow mx-3"></i></a>
+                <a class="btn btn-primary py-2 rounded-1 text-center" href="tel:+254 712 261633">Contact Us <i class="fas fa-arrow-right shadow mx-3"></i></a>
             </div>
         </div>
 
