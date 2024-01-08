@@ -227,7 +227,7 @@
     <div class="container-xxl py-5 call-to-action d-flex align-items-center justify-content-center">
         <div class=" container row bg-light p-5 shadow rounded-1">
             <div class="col-md-8 col-lg-8">
-                <h1 class=" text-warning">Like What you see?? Get in touch</h1>
+                <h1 class=" text-warning">Let's make a Plan.</h1>
             </div>
             <div class="col-md-3 col-log-4 d-flex justify-content-center">
                 <a class="btn btn-primary py-2 rounded-1 text-center" href="tel:+254 712 261633">Contact Us <i class="fas fa-arrow-right shadow mx-3"></i></a>
