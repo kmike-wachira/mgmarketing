@@ -194,8 +194,9 @@
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
                     <h6 class="section-title bg-white text-start text-primary pe-3">Service</h6>
                     <h3 class="mb-4 text-uppercase">Photography and Videography</h3>
-                    <p class="mb-4"> Ever wondered how you are going to capture those pictures as well us take a video of your company and edit it.
-                        We are here for you. Once you sign up with us .We do that for you for free and regularly
+                    <p class="mb-4"> Ever wondered how to capture those moments and create stunning motioned visuals of your product, Company, or Service? <br>
+We have a great Media department segmented to Curate and Develop such content within your desired needs and Market trends.
+Nothing beats a great Visual and we have that on lock.
                     </p>
                 </div>
             </div>
