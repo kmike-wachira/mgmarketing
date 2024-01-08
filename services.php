@@ -174,10 +174,11 @@
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
                     <h6 class="section-title bg-white text-start text-primary pe-3">Service</h6>
                     <h3 class="mb-4 text-uppercase">Brand identity</h3>
-                    <p class="mb-4">Brand identity is a collection of visual elements that represent a company's ideas and allow customers to remember and
-                        distinguish one brand from dozens of others. It aids in shaping consumers' perceptions of a company, fostering loyalty and trust,
-                        and making a brand memorable. Here at MG Marketing help you get the best. We design weekly poster for your company design a logo
-                        and any other related designs for your company</p>
+                    <p class="mb-4">Brand identity is a collection of visual elements that represent a company's ideas. 
+                        It allows customers to remember and distinguish one brand from others. It plays a critical role in 
+                        shaping consumers' perceptions of a company, fostering loyalty and trust, thus making 
+                        the brand memorable. Here at MG Marketing help you develop your Brand Identity through visual
+                         elements such as company design and logo, Typography, Brand Colours, etc.</p>
                 </div>
             </div>
         </div>
