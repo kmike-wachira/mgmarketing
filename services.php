@@ -222,6 +222,23 @@
             </div>
         </div>
     </div>
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="row flex-row-reverse g-5 ">
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="min-height: 400px;">
+                    <div class="position-relative h-100 shadow">
+                        <img class="img-fluid position-absolute w-100 h-100" src="img/dg.jpeg" alt="MG Marketing" style="object-fit: cover;">
+                    </div>
+                </div>
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <h6 class="section-title bg-white text-start text-primary pe-3">Service</h6>
+                    <h3 class="mb-4 text-uppercase"> CONTENT CREATION</h3>
+                    <p class="mb-4"> The Business of Content is the Business of the 4th Industrial Revolution and a driver of the 5th one - involving Artificial Intelligence. Content Consumption whereas exciting the process of creating and Collecting Content is quite immersive and tasking. Strategy is a key component of Content Creation and our team is prepared to match your Goals, Brand Personality, and Content Style to Catapult your BRAND.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <!-- call to action -->
     <div class="container-xxl py-5 call-to-action d-flex align-items-center justify-content-center">

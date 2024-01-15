@@ -149,6 +149,10 @@
                             <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>Certified Web Developer
                             </p>
                         </div>
+                        <div class="col-sm-6">
+                            <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>Experiential Marketing Team
+                            </p>
+                        </div>
                     </div>
                     <a href="/mgprofile.pdf" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft" download="mgprofile">Download Our Profile</a>
                 </div>
